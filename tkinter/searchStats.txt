@@ -1,0 +1,2 @@
+Linear_Search: 0.007922649383544922
+Binary_Search: 0.0
